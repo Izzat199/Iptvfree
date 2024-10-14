@@ -9270,3 +9270,6 @@ https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0a171cc1bb90f78820cf25cc55f0ee10:ac08792047218ca2a01f2bbd12d90501
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Aneka India" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://sund-images.sunnxt.com/194404/640x360_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg",SUN NEWS HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
+
+#EXTINF:-1 tvg-id="1Plus1.ua",1+1
+http://45.153.35.237:8000/play/a00y
