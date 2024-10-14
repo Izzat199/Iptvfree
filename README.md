@@ -9286,7 +9286,8 @@ https://8r1fp7ro6am.a.trbcdn.net/SportTV4/index.m3u8
 #EXTINF:-1 tvg-id=''" tvg-name="" group-title="Portugal Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXb7XHuyjNE023NJqRz2mEoBA23F5pixM6Gw&usqp=CAU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Spor-tv.jpg/revision/latest?cb=20230224172124",Sport TV6 PT
 https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
 
-
+group-title="Worldwide TV Sports" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/c/ce/%D0%9C%D0%B0%D1%82%D1%87_%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80.svg/1024px-%D0%9C%D0%B0%D1%82%D1%87_%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80.svg.png?20180725094409", Nash Football
+http://95.216.40.210/nashfootball/index.m3u8
 
 
 
