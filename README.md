@@ -3766,45 +3766,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Astro_Sensasi_%282024%29.png/440px-Astro_Sensasi_%282024%29.png",Astro Sensasi
-http://extraott.com:80/live/8783921544/8154411569/13490.ts
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/HUB_E_City.png/revision/latest?cb=20240218062727&path-prefix=vi",Hub E City
-http://23.26.239.95:3599/xsj.php?id=HubECity
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/95/HUB_VV_Drama.png/revision/latest?cb=20240218064901&path-prefix=vi",Hub VV Drama
-http://23.26.239.95:3599/xsj.php?id=HubVVDrama
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://icdb.tv/images/e4749e98cd7e38aad571455a6fcf3be8.jpg",HubSports 1
-http://23.26.239.95:3599/xsj.php?id=hubsports1
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/25/HubSports_2.png/revision/latest?cb=20190619114541",HubSports 2
-http://23.26.239.95:3599/xsj.php?id=hubsports2
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png",HubSports 3
-http://23.26.239.95:3599/xsj.php?id=hubsports3
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png",HubSports 4
-http://23.26.239.95:3599/xsj.php?id=hubsports4
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png",HubSports Plus
-http://23.26.239.95:3599/xsj.php?id=hubsports-plus
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png",Hub Premier 1
-http://23.26.239.95:3599/xsj.php?id=hubpremier1
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="StarHub TV Group" group-lo﻿go="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",Hub Premier 2
-http://23.26.239.95:3599/xsj.php?id=hubpremier2
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://icdb.tv/images/8c8204b53739b7fb8deb645245288011.jpg",Hub Premier 3
-http://23.26.239.95:3599/xsj.php?id=hubpremier3
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png",Hub Premier 4
-http://23.26.239.95:3599/xsj.php?id=hubpremier4
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://icdb.tv/images/f0a89ced41a91f16764275894d80a10f.jpg",Hub Premier 5
-http://23.26.239.95:3599/xsj.php?id=hubpremier5
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Korea Digital TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png?20221230182244" tvg-logo="https://blog.kakaocdn.net/dn/35prt/btqDVffwjT7/ALKKmtKlH6XvyTdG7OK4w0/img.jpg",KBS KIDS (A)
 http://23.26.239.95:3599/xsj.php?id=kbs-kids
 
@@ -9288,5 +9249,17 @@ https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Worldwide TV Sports" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/c/ce/%D0%9C%D0%B0%D1%82%D1%87_%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80.svg/1024px-%D0%9C%D0%B0%D1%82%D1%87_%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80.svg.png?20180725094409",Nash Football
 http://95.216.40.210/nashfootball/index.m3u8
+
+#EXTINF:-1 group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg",HUB*SPORTS*1_SG
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554968_&extension=m3u8
+
+#EXTINF:-1 group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg",HUB*SPORTS*2_SG
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554967_&extension=m3u8
+
+#EXTINF:-1 group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg",HUB*SPORTS*3_SG
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554966_&extension=m3u8
+
+#EXTINF:-1 group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg",HUB*SPORTS*4_SG
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554965_&extension=m3u8
 
 
