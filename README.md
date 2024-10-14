@@ -9271,5 +9271,22 @@ https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Aneka India" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://sund-images.sunnxt.com/194404/640x360_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg",SUN NEWS HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
 
-#EXTINF:-1 tvg-id=''" tvg-name="" group-title="Portugal Sports" tvg-logo="",Sport TV1 PT
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXb7XHuyjNE023NJqRz2mEoBA23F5pixM6Gw&usqp=CAU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",Sport TV1 PT
 https://8r1fp7ro6am.a.trbcdn.net/SportTV1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXb7XHuyjNE023NJqRz2mEoBA23F5pixM6Gw&usqp=CAU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg",Sport TV2 PT
+https://8r1fp7ro6am.a.trbcdn.net/SportTV2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXb7XHuyjNE023NJqRz2mEoBA23F5pixM6Gw&usqp=CAU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ823aYjUXrev-sVgXN7p7g1Wg1PPUhGabFWg&s",Sport TV3 PT
+https://8r1fp7ro6am.a.trbcdn.net/SportTV3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Portugal Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXb7XHuyjNE023NJqRz2mEoBA23F5pixM6Gw&usqp=CAU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg",Sport TV4 PT
+https://8r1fp7ro6am.a.trbcdn.net/SportTV4/index.m3u8
+
+#EXTINF:-1 tvg-id=''" tvg-name="" group-title="Portugal Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXb7XHuyjNE023NJqRz2mEoBA23F5pixM6Gw&usqp=CAU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Spor-tv.jpg/revision/latest?cb=20230224172124",Sport TV6 PT
+https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
+
+
+
+
+
