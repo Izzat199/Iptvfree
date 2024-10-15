@@ -9271,3 +9271,9 @@ http://applelive.in/digitaltv/digitaltv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Apple Media Network" group-logo="https://i.postimg.cc/2ysQ4q7Q/Flag-of-India.png" tvg-logo="https://i.postimg.cc/W4RX7WTk/unnamed.webp", JC TV Tamil
 http://applelive.in/jctv/jctv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Apple Media Network" group-logo="https://i.postimg.cc/2ysQ4q7Q/Flag-of-India.png" tvg-logo="https://i.postimg.cc/wxrh7DSm/unnamed.png", Selfee TV Tamil
+http://applelive.in/selfeetv/selfeetv.m3u8
+
+
+
