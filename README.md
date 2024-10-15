@@ -23,6 +23,7 @@ refresh="3600"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/polandpremium.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/in.xml"
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U x-tvg url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Aneka Melayu" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 (Astro Feed)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
