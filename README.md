@@ -9263,4 +9263,11 @@ http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554966_&extensi
 #EXTINF:-1 group-title="StarHub TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/HUB_Sports_4.png/revision/latest/scale-to-width-down/250?cb=20240218063208&path-prefix=vi",HUB*SPORTS*4_SG
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554965_&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Apple Media Network" group-logo="https://i.postimg.cc/2ysQ4q7Q/Flag-of-India.png" tvg-logo="https://i.postimg.cc/zXrhBy1C/star-hd-logo.webp",Star HD Tamil
+http://applelive.in/startv/startv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Apple Media Network" group-logo="https://i.postimg.cc/2ysQ4q7Q/Flag-of-India.png" tvg-logo="https://i.postimg.cc/7YnTZQTP/Screenshot-2024-10-15-233014.jpg", Digital TV Tamil
+http://applelive.in/digitaltv/digitaltv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Apple Media Network" group-logo="https://i.postimg.cc/2ysQ4q7Q/Flag-of-India.png" tvg-logo="https://i.postimg.cc/W4RX7WTk/unnamed.webp", JC TV Tamil
+http://applelive.in/jctv/jctv.m3u8
