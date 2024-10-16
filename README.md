@@ -9286,3 +9286,15 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:0 tvg-id="2363" group-title="Worldwide TV Sports" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcojBXZoYdfVniTeXFa_iyIRvyznoaWmegAw&s",Tigo Sports 
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+
+#EXTINF:0 tvg-id="2363" group-title="Worldwide TV Sports" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=14ln25pmjdv031ejxsmg8dczsu_image-header_pEs_1723117975000&quality=70",ES:DAZN F1
+http://cdn.troya.one:80/ch765/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJ79xFpUErUbFXZdlm1Nwb0EPd-emvMQzu5o-buFzYUn
+
+#EXTINF:0 tvg-id="2363" group-title="Worldwide TV Sports" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=pterrit4f2xu1pa2r6x87y5e9_image-header_pIt_1724315365000&quality=70",ES:Dazn 1 HD
+http://cdn.troya.one:80/ch2958/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPEgBMxUD8ZqL_S3C2S6dhD2o_fMaplolOUAvm6OcDoQ
+
+#EXTINF:0 tvg-id="2363" group-title="Worldwide TV Sports" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=2ouwtae8ad7l1fxviow9bowpk_image-header_pEs_1723118632000&quality=70",ES:Dazn 2 HD 
+http://cdn.troya.one:80/ch2959/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iET3gDHaamHJ7o9nzpPjfSXhWKuNoNqkkWZ4WlKseKbL
+
+#EXTINF:0 tvg-id="2363" group-title="Worldwide TV Sports" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",ES:Gol TV
+http://cdn.troya.one:80/ch2220/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDv1BJGwzvHDl7guTENTT-_Qh33sfcui197TgLyHoKNn
