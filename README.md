@@ -9275,5 +9275,9 @@ http://applelive.in/jctv/jctv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Apple Media Network" group-logo="https://i.postimg.cc/2ysQ4q7Q/Flag-of-India.png" tvg-logo="https://i.postimg.cc/wxrh7DSm/unnamed.png", Selfee TV Tamil
 http://applelive.in/selfeetv/selfeetv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pluto TV:Sports" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/440px-Pluto_TV_logo_2024.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png",Bellator MMA
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pluto TV:Sports" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/440px-Pluto_TV_logo_2024.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/ProfessionalFightersLeagueShieldLogo.png",PFL MMA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a574605f140007e233c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e7c1ca7-ed35-4230-ab56-f8dbc86b0af4
 
