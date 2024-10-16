@@ -9283,3 +9283,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pluto TV:Sports" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/440px-Pluto_TV_logo_2024.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/AXS_TV_Fights_Logo.png",AXS TV FIGHTS
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:0 tvg-id="2363" group-title="Worldwide TV Sports" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcojBXZoYdfVniTeXFa_iyIRvyznoaWmegAw&s",Tigo Sports 
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
