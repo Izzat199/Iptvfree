@@ -6840,24 +6840,6 @@ http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" group-title="Worldwide TV Sports" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png",beIN Sports Haber
 http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Aneka Sukan Temporary" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/400px-Astro_Supersport_HD.png",Astro Supersport HD (A)
-http://152.89.62.76:8880/live/DAALM2792/WM4X7tNsEk/59220.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Aneka Sukan Temporary" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/400px-Astro_Supersport_HD.png",Astro Supersport HD (B)
-https://z88.ubtvfans.com/live/rx3/444/374f3a89485dae993739529766d65c1b/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Aneka Sukan Temporary" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233"  tvg-logo="https://archive.org/download/AstroSupersport2/astro%20supersport%202.png",Astro Supersport 2 HD (A)
-http://152.89.62.76:8880/live/DAALM2792/WM4X7tNsEk/592.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Aneka Sukan Temporary" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233"  tvg-logo="https://archive.org/download/AstroSupersport2/astro%20supersport%202.png",Astro Supersport 2 HD (B)
-https://z88.ubtvfans.com/live/rx3/445/a051a0bab713f99e7021da86464bdb8e/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Aneka Sukan Temporary" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233"  tvg-logo="https://ia902202.us.archive.org/0/items/AstroSupersport3//astro%20supersport%203_thumb.jpg",Astro Supersport 3 HD
-http://152.89.62.76:8880/live/DAALM2792/WM4X7tNsEk/59218.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Aneka Sukan Temporary" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233"  tvg-logo="https://ia804607.us.archive.org/12/items/AstroSupersport4/astro%20supersport%204.png",Astro Supersport 4 HD
-http://152.89.62.76:8880/live/DAALM2792/WM4X7tNsEk/59217.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="RTB Go" group-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png",RTB Pelangi
 https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
 
@@ -9298,3 +9280,9 @@ http://cdn.troya.one:80/ch2959/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iET3
 
 #EXTINF:0 tvg-id="2363" group-title="Worldwide TV Sports" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",ES:Gol TV
 http://cdn.troya.one:80/ch2220/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDv1BJGwzvHDl7guTENTT-_Qh33sfcui197TgLyHoKNn
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTINF:-1 tvg-id="Astro Football" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png",Astro Football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
