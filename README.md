@@ -9281,3 +9281,5 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Pluto TV:Sports" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/440px-Pluto_TV_logo_2024.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/ProfessionalFightersLeagueShieldLogo.png",PFL MMA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a574605f140007e233c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e7c1ca7-ed35-4230-ab56-f8dbc86b0af4
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Pluto TV:Sports" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/440px-Pluto_TV_logo_2024.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/AXS_TV_Fights_Logo.png",AXS TV FIGHTS
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
