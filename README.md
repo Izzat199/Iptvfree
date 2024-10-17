@@ -9286,3 +9286,51 @@ https://mt33.aa.astro.com.my/default_primary.mpd
 #EXTINF:-1 tvg-id="816.astro" tvg-name="Astro Badminton 2" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" ch-number="816",816 Astro Badminton 2
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://i.imgur.com/wOIaqg7.png",TV5 HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://i.imgur.com/IDMQ2xe.png",CH7 HD
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/chunklist_w2088011607_b1128000_slThai.m3u8
+
+#EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://iptv36.my.to/logo/tptv.png",TPTV
+https://tv-live.tpchannel.org/live/tv.m3u8
+
+#EXTINF:-1 tvg-id="NBT11Central.th" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://i.imgur.com/8hYQIxS.png",NBT 11 Central
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="NBT11North.th" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://imgur.com/XTFVUkP.png",NBT 11 North
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
+
+#EXTINF:-1 tvg-id="NBT11NorthEast.th" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://imgur.com/4kwV5Sy.png",NBT 11 Northeast
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
+
+#EXTINF:-1 tvg-id="NBT11South.th" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://imgur.com/4K22fqQ.png",NBT 11 South
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
+
+#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://i.imgur.com/uARba6N.png",GMM 25
+http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/chunklist_w1225519024_b1128000_slThai.m3u8
+
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://iptv36.my.to/logo/workpoint.png",Workpoint TV
+http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/chunklist_w25751215_b1128000_slThai.m3u8
+
+#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://iptv36.my.to/logo/mono29.png",MONO 29
+https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8
+
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://i.imgur.com/ejPxGmU.png",MCOT HD
+https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="One31.th" tvg-name="ONE HD" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://iptv36.my.to/logo/one.png",ONE HD
+http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/chunklist_w737518370_b1128000_slThai.m3u8
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://iptv36.my.to/logo/thairath.png",Thairath TV
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/chunklist_w239037154_b1128000_slThai.m3u8
+
+#EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://i.imgur.com/YRiulCU.png",3 HD
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/chunklist_w591253253_b1128000_slThai.m3u8
+
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://iptv36.my.to/logo/amarin.png",Amarin TV
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/chunklist_w550258014_b1128000_slThai.m3u8
+
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://iptv36.my.to/logo/pptv.png",PPTV HD
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/chunklist_w852002394_b1128000_slThai.m3u8
