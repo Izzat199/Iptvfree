@@ -3845,11 +3845,8 @@ https://medialive.akash-go.com/out/v1/8c069025cffe4fbd94a11ce0b5c32b93/index.mpd
 #EXTINF:-1 group-title="Worldwide TV Kids" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://i.postimg.cc/VsBRk971/download-2023-06-02-T004905-154.png", FOX KIDS 
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w345953685.m3u8
 
-#EXTINF:-1 tvg-id="PandaKids" group-title="Worldwide TV Kids" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://i.postimg.cc/T25NSyx2/download-67.png",Panda Kids (A)
-http://filex.tv:8080/aftab123/004090/316827
-
-#EXTINF:-1 tvg-id="PandaKids" group-title="Worldwide TV Kids" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://i.postimg.cc/T25NSyx2/download-67.png",Panda Kids (B)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290678
+#EXTINF:-1 tvg-id="PandaKids" group-title="Worldwide TV Kids" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://i.postimg.cc/T25NSyx2/download-67.png",Panda Kids 
+http://5.182.39.241:1234/stream/vodafonept/pandakids/master.m3u8
 
 #EXTINF:-1 group-title="Worldwide TV Kids" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://i.postimg.cc/VsBRk971/download-2023-06-02-T004905-154.png", FOX KIDS (WEBTV)
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
@@ -9316,7 +9313,6 @@ http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/chunklist_
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://iptv36.my.to/logo/pptv.png",PPTV HD
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/chunklist_w852002394_b1128000_slThai.m3u8
-
 
 #EXTINF:-1 tvg-id="811.astro" tvg-name="Astro Premier League" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" ch-number="811",811 Astro Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
