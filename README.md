@@ -709,13 +709,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-#EXTINF:-1 tvg-id="AstroArena" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",Astro Arena
+#EXTINF:-1 tvg-id="AstroArena" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png",Astro Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#EXTINF:-1 tvg-id="AstroArena2" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",Astro Arena 2
+#EXTINF:-1 tvg-id="AstroArena2" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png",Astro Arena 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
@@ -9089,22 +9089,6 @@ https://go.munzstore.xyz/citraz.mpd
 #EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-name="PRIMA HD" group-title="Astroxx Temporary" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO PRIMA HD
 https://go.munzstore.xyz/primaz.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGlOalV5TkdJdE0yUmlZUzAwWlRKbExUZ3hNekl0TVRRNU1XRTRNbVF3T1dFeCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTE1MDYxNCwiaWF0IjoxNzI4NTQ2NjE0fQ.XkWJpXzyYQGIUtL-dmFlg_ofrpTzlJYrpgx1x_H_xEk"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" }], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroArenaBola" group-title="Astroxx Temporary" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png",Arena Bola
-https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
-  
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21p﻿ZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGlOalV5TkdJdE0yUmlZUzAwWlRKbExUZ3hNekl0TVRRNU1XRTRNbVF3T1dFeCIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTE1MDYxNCwiaWF0IjoxNzI4NTQ2NjE0fQ.XkWJpXzyYQGIUtL-dmFlg_ofrpTzlJYrpgx1x_H_xEk"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" }], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroArenaBola 2" group-title="Astroxx Temporary" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://telegra.ph/file/6996a6dca16f43f734049.png",Arena Bola 2
-https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="English Box Movies Collection" group-logo="https://img.freepik.com/premium-vector/vod-video-demand-neon-icon-video-monetization-vector-stock-illustration_100456-8370.jpg" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/07/film-deadpool-wolverine-2024-lk21-d21.jpg",Deadpool and Wolverine (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
 https://stream.hownetwork.xyz/yyy/deadpool-wolverine-2024-webdl_X_74cedeb2/26/480.m3u8|Referer=https://stream.hownetwork.xyz/
@@ -9254,3 +9238,51 @@ http://cdn.troya.one:80/ch2220/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDv1
 #EXTINF:-1 tvg-id="Astro Football" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png",Astro Football 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"4VG7gUaKhCbWqxKGDTFKow","kid":"SZqPNoBksRzAkrewE9sHEA" }],"type":"temporary"}
+#EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" ch-number="803",803 ARENA BOLA
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://mt24.aa.astro.com.my/linears-playback.astro.com.my/vsg//dash-wv/jitp-dashisowm/5099/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"se/6nlHPOLOuZ2vCZJN++w","kid":"Yqe3kXqtUSPNTfZcVhxwEA" }],"type":"temporary"}
+#EXTINF:-1 tvg-id="804.astro" tvg-name="ARENA BOLA 2" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" ch-number="804",804 ARENA BOLA 2
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linears-playback.astro.com.my/vsg//dash-wv/jitp-linearwm/5100/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"Fo8/rfxzC6PfyTL3xDDifQ","kid":"W+Zqb4jv7j1uMPcqnFjjEA" }],"type":"temporary"}
+#EXTINF:-1 tvg-id="810.astro" tvg-name="Astro Grandstand" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" ch-number="810",810 Astro Grandstand
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://mt28.aa.astro.com.my/linears-playback.astro.com.my/vsg//jitp-dashisowm/2701/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"TxVBP35HZ7UMSOGbf5ovzA","kid":"90mrcfInmZv7CY9zNZqsEA" }],"type":"temporary"}
+#EXTINF:-1 tvg-id="811.astro" tvg-name="Astro Premier League" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" ch-number="811",811 Astro Premier League
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://mt26.aa.astro.com.my/linears-playback.astro.com.my/vsg//dash-wv/jitp-dashisowm/601/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"3fpujVSbTVF3qcref5oLIw","kid":"wdyS8HifESUDwNs73i8SEA" }],"type":"temporary"}
+#EXTINF:-1 tvg-id="812.astro" tvg-name="Astro Premier League 2" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" ch-number="812",812 Astro Premier League 2
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://mt27.aa.astro.com.my/linears-playback.astro.com.my/vsg//dash-wv/jitp-dashisowm/2104/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"g3KLRwGavbs3qjbtXylRvQ","kid":"b/DgQNVE7D8CJDhlmQ8MEA" }],"type":"temporary"}
+#EXTINF:-1 tvg-id="815.astro" tvg-name="Astro Badminton" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" ch-number="815",815 Astro Badminton
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://mt32.aa.astro.com.my/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"yLiGFCAF1+UGfIcXd36qxA","kid":"gTUrxH7BF3syHuZawb5/EA" }],"type":"temporary"}
+#EXTINF:-1 tvg-id="817.astro" tvg-name="Astro Sports Plus" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" ch-number="817",817 Astro Sports Plus
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://mt33.aa.astro.com.my/default_primary.mpd
+
+
+
+
+
+
