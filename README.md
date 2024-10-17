@@ -9328,3 +9328,9 @@ https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebpla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Apple Media Network" group-logo="https://i.postimg.cc/2ysQ4q7Q/Flag-of-India.png" tvg-logo="https://i.postimg.cc/htNxKnzM/IMG-20241018-061646.jpg",Media 4 Tamil 
+http://applelive.in/media4tv/media4tv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Apple Media Network" group-logo="https://i.postimg.cc/2ysQ4q7Q/Flag-of-India.png" tvg-logo="https://i.postimg.cc/zGD53HWG/Screenshot-2024-10-18-062007.jpg",Hai TV TAMIL 
+http://live.applelive.in/haitv/haitv.m3u8
