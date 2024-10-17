@@ -9252,24 +9252,6 @@ https://mt24.aa.astro.com.my/linears-playback.astro.com.my/vsg//dash-wv/jitp-das
 https://linears-playback.astro.com.my/vsg//dash-wv/jitp-linearwm/5100/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"Fo8/rfxzC6PfyTL3xDDifQ","kid":"W+Zqb4jv7j1uMPcqnFjjEA" }],"type":"temporary"}
-#EXTINF:-1 tvg-id="810.astro" tvg-name="Astro Grandstand" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" ch-number="810",810 Astro Grandstand
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://mt28.aa.astro.com.my/linears-playback.astro.com.my/vsg//jitp-dashisowm/2701/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"TxVBP35HZ7UMSOGbf5ovzA","kid":"90mrcfInmZv7CY9zNZqsEA" }],"type":"temporary"}
-#EXTINF:-1 tvg-id="811.astro" tvg-name="Astro Premier League" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" ch-number="811",811 Astro Premier League
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://mt26.aa.astro.com.my/linears-playback.astro.com.my/vsg//dash-wv/jitp-dashisowm/601/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"3fpujVSbTVF3qcref5oLIw","kid":"wdyS8HifESUDwNs73i8SEA" }],"type":"temporary"}
-#EXTINF:-1 tvg-id="812.astro" tvg-name="Astro Premier League 2" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" ch-number="812",812 Astro Premier League 2
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://mt27.aa.astro.com.my/linears-playback.astro.com.my/vsg//dash-wv/jitp-dashisowm/2104/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"g3KLRwGavbs3qjbtXylRvQ","kid":"b/DgQNVE7D8CJDhlmQ8MEA" }],"type":"temporary"}
 #EXTINF:-1 tvg-id="815.astro" tvg-name="Astro Badminton" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" ch-number="815",815 Astro Badminton
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -9334,3 +9316,19 @@ http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/chunklist_
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Thailand Local" group-logo="https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg" tvg-logo="https://iptv36.my.to/logo/pptv.png",PPTV HD
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/chunklist_w852002394_b1128000_slThai.m3u8
+
+
+#EXTINF:-1 tvg-id="811.astro" tvg-name="Astro Premier League" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" ch-number="811",811 Astro Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="810.astro" tvg-name="Astro Grandstand" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" ch-number="810",810 Astro Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="812.astro" tvg-name="Astro Premier League 2" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" ch-number="812",812 Astro Premier League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://qqwebplay.xyz
