@@ -9281,8 +9281,8 @@ https://mt32.aa.astro.com.my/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://mt33.aa.astro.com.my/default_primary.mpd
 
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"F8Ga1nClV+aIJBnWkj+tJw","kid":"cq1uqhkEVAE4SH//o61lEA" }],"type":"temporary"}
+#EXTINF:-1 tvg-id="816.astro" tvg-name="Astro Badminton 2" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" ch-number="816",816 Astro Badminton 2
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
