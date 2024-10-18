@@ -3270,21 +3270,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/Z8G8MY6ZAU3S5C/160/index.m3u8
 #EXTINF:0 tvg-id="2055" group-title="Worldwide TV Sports" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="http://epg.one/img2/2055.png" tvg-rec="3",Viju+ Sport orig
 http://rhsbjv7k.tvclub.xyz/iptv/Z8G8MY6ZAU3S5C/9249/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DSTV@Sports" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://images.supersport.com/media/xsvpxyc3/serie-a.png?width=500&quality=90&format=webp",SS Serie A
-https://xcdn.bong.ink/hls/bong4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DSTV@Sports" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://i.postimg.cc/fRC7szH0/images-56.png",SS LA LIGA (A)
-https://xcdn.bong.ink/hls/bong2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DSTV@Sports" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://i.postimg.cc/fRC7szH0/images-56.png",SS LA LIGA (B)
-https://vipgoodlive-tvs.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DSTV@Sports" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://i.postimg.cc/hvVy1FKb/muat-turun-74.png",SS PRIMERE LEAGUE (A)
-https://xcdn.bong.ink/hls/bong1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DSTV@Sports" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://i.postimg.cc/hvVy1FKb/muat-turun-74.png",SS PRIMERE LEAGUE (B)
-https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Worldwide TV Sports" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://images-cdn1.welcomesoftware.com/assets/Willow+is+on+DIRECTV.png/Zz0wN2Q2OGJhNmI5OWIxMWVlODc2NzYyN2FmMWUzNmU4OA==?width=960&height=538",Willow Cricket UK
 http://z88.ubtvfans.com/live/rx2/3231/917a897f61f8155dcd2b7601b70eaf4a/index.m3u8
 
@@ -9334,3 +9319,26 @@ http://applelive.in/media4tv/media4tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Apple Media Network" group-logo="https://i.postimg.cc/2ysQ4q7Q/Flag-of-India.png" tvg-logo="https://i.postimg.cc/zGD53HWG/Screenshot-2024-10-18-062007.jpg",Hai TV TAMIL 
 http://live.applelive.in/haitv/haitv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DSTV@Sports" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a298.png",SS Motorsports 
+https://cdn.troya.one/ch2247/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iITYWz3iNhBS76sBwuLo_i7EQ208rnIOFk1gYdHHzoF6
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DSTV@Sports" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://i0.wp.com/alternativeadverts.co.ke/wp-content/uploads/2024/07/DSTV-SuperSport-Rugby-Advert-Rate-1.jpg?resize=300%2C147&ssl=1",SS Rugby 
+http://cdn.troya.one:80/ch2249/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iMDeszAk_8E8yr-3H-pB3TYBV-yl4fqHChcjsu9dy86T
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DSTV@Sports" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5e3e5yS8WBNXevPFgXSyT4uGlxF2yVTovVg&s",SS Tennis
+http://cdn.troya.one:80/ch2250/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOIbN2RGAAy1kIAJtaVjZ8TYPcBTYtnXhDmxx5tQ2EHE
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DSTV@Sports" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://i.postimg.cc/hvVy1FKb/muat-turun-74.png",SS PRIMERE LEAGUE 
+http://cdn.troya.one:80/ch2251/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAo9b52cTI0fy5D2FIfNzwxmVhL2S8AoA7-40w4pC6TK
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DSTV@Sports" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiddIPUYYZ7Pu7S4QYbaT6BWdCMFZYkxDduvXE3ldpEQ&s",SS PSL 
+http://cdn.troya.one:80/ch2252/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOzw9vN_VhgZfBf1u6-wunyZsNMLFA3if1iSVDyiFEqo
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DSTV@Sports" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/aitip41642604897.png",SS GRANDSTAND 
+http://cdn.troya.one:80/ch2246/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA4t4byycLqr5QY8Z2ufkB9q54nSfWUM6IC5EDD3jFBR
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DSTV@Sports" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://www.placemyad.co.za/wp-content/uploads/logo-22.png",SS FOOTBALL 
+http://cdn.troya.one:80/ch2243/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEp5SJMkYD2SUZoheKvhEouG44kfNXBFE46v66dMZBw_
+
+
