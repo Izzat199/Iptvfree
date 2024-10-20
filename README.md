@@ -9342,7 +9342,7 @@ http://cdn.troya.one:80/ch2246/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA4t
 http://cdn.troya.one:80/ch2243/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEp5SJMkYD2SUZoheKvhEouG44kfNXBFE46v66dMZBw_
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"tkhdoP8BjE11hSCGXBmlmA","kid":"RvEkIJOS89tWSt5ez/8dEA" }],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={46f124209392f3db564ade5ecfff1d10:b6485da0ff018c4d758520865c19a598}
 #EXTINF:-1 tvg-id="210.astro" tvg-name="RUSI" group-title="Aneka Indian" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/RUSI_HD.png" ch-number="210",210 RUSI
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5168/default_primary.mpd
