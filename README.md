@@ -4071,7 +4071,7 @@ https://live.pipitv.top/stream/channelid/2115941430?profile=pass
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?
 
 #EXTINF:-1 tvg-id="antvhd" group-title="Vietnam Local" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwRvO97QOwNtjWb-9ov946OQ06Ko6oWDaiaLCJRG7f7Q&s" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV — Truyền Hình Công An Nhân Dân
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="Vietnam Local" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwRvO97QOwNtjWb-9ov946OQ06Ko6oWDaiaLCJRG7f7Q&s" tvg-logo="https://i.imgur.com/Je3K25E.png",Hà Nội 1
 https://cloudstreamqh.tek4tv.vn/live/HN1_1080p.m3u8
