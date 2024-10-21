@@ -9030,25 +9030,21 @@ http://a6d14905.kazaktelekom.com/iptv/W9NGH2G2DGKXUCSMEU9TKNWL/9293/index.m3u8
 #EXTINF:-1 tvg-name="5 USA" group-title="Sky UK Group" group-logo="https://upload.wikimedia.org/wikipedia/it/a/a2/Sky_TV_Logo.png?20221109115120" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/5USA_logo.svg",5 USA
 https://webhdrunns.mizhls.ru/lb/premium360/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTINF:-1 tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" group-title="Astroxx Temporary" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
-https://go.munzstore.xyz/riaz.mpd
+#EXTINF:-1 tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" group-title="Aneka Melayu" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA HD
+http://84.247.146.12:1234/stream/my/ria/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-#EXTINF:-1 tvg-id="107.astro" ch-number="107" tvg-name="WARNA HD" group-title="Astroxx Temporary" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO WARNA HD
-https://go.munzstore.xyz/warnaz.mpd
+#EXTINF:-1 tvg-id="107.astro" ch-number="107" tvg-name="WARNA HD" group-title="Aneka Melayu" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",ASTRO WARNA HD
+http://84.247.146.12:1234/stream/my/warna/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="108.astro" ch-number="108" tvg-name="CITRA HD" group-title="Astroxx Temporary" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO CITRA HD 
+#EXTINF:-1 tvg-id="108.astro" ch-number="108" tvg-name="CITRA HD" group-title="Aneka Melayu" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA HD 
 https://go.munzstore.xyz/citraz.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-name="PRIMA HD" group-title="Astroxx Temporary" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO PRIMA HD
+#EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-name="PRIMA HD" group-title="Aneka Melayu" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",ASTRO PRIMA HD
 https://go.munzstore.xyz/primaz.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="English Box Movies Collection" group-logo="https://img.freepik.com/premium-vector/vod-video-demand-neon-icon-video-monetization-vector-stock-illustration_100456-8370.jpg" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/07/film-deadpool-wolverine-2024-lk21-d21.jpg",Deadpool and Wolverine (2024)
@@ -9201,17 +9197,11 @@ http://cdn.troya.one:80/ch2220/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iDv1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"4VG7gUaKhCbWqxKGDTFKow","kid":"SZqPNoBksRzAkrewE9sHEA" }],"type":"temporary"}
 #EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" ch-number="803",803 ARENA BOLA
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://mt24.aa.astro.com.my/linears-playback.astro.com.my/vsg//dash-wv/jitp-dashisowm/5099/default_primary.mpd
+http://84.247.146.12:1234/stream/sooka/bola1/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"se/6nlHPOLOuZ2vCZJN++w","kid":"Yqe3kXqtUSPNTfZcVhxwEA" }],"type":"temporary"}
 #EXTINF:-1 tvg-id="804.astro" tvg-name="ARENA BOLA 2" group-title="Aneka Sukan" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" ch-number="804",804 ARENA BOLA 2
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://linears-playback.astro.com.my/vsg//dash-wv/jitp-linearwm/5100/default_primary.mpd
+http://84.247.146.12:1234/stream/sooka/bola2/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"g3KLRwGavbs3qjbtXylRvQ","kid":"b/DgQNVE7D8CJDhlmQ8MEA" }],"type":"temporary"}
@@ -9346,3 +9336,6 @@ https://neestreamtv.com/jcinema/stream.m3u8?id=3845693|Referer=https://neestream
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png", Colors Infinity HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://neestreamtv.com/jcinema/stream.m3u8?id=3774150|Referer=https://neestreamtv.com/
+
+#EXTINF:-1 tvg-id=""  tvg-name="" group-title="Aneka India" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Astro_Vinmeen_HD.png",Astro Vinmeen HD 
+http://84.247.146.12:1234/stream/my/vinmeen/master.m3u8
