@@ -5326,7 +5326,7 @@ http://line.4k-beast.co:80/live/c0%3A23%3A8d%3A96%3A15%3A22/44D11F/1445991.ts
 https://line.4k-beast.co:80/live/c0%3A23%3A8d%3A96%3A15%3A22/44D11F/391906.ts
 
 #EXTINF:-1 group-title="DSTV@Kids" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png",Cartoon Network AF
-https://line.4k-beast.co:80/live/c0%3A23%3A8d%3A96%3A15%3A22/44D11F/118071.ts
+http://starshare.live/live/Mohim90/Skytv90/158030.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay@Movies" group-logo="https://www.gadgets360.com/static/v1/images/og_tata_play.png" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FRYJgXdvA.png&w=256&q=75",Star Movies Select HD (A)
 http://dream4ktv.biz:2082/play/live.php?mac=00:1A:79:70:7A:D0&stream=277323&extension=ts&play_token=8unw0GVDC5
