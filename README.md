@@ -9343,6 +9343,6 @@ https://neestreamtv.com/jcinema/stream.m3u8?id=3479683|Referer=https://neestream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://neestreamtv.com/jcinema/stream.m3u8?id=3845693|Referer=https://neestreamtv.com/
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="Colors Infinity HD", Colors Infinity HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png", Colors Infinity HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://neestreamtv.com/jcinema/stream.m3u8?id=3774150|Referer=https://neestreamtv.com/
