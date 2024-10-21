@@ -9330,3 +9330,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5168/default_primary.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png", Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://neestreamtv.com/jcinema/stream.m3u8?id=3694429|Referer=https://neestreamtv.com/
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png", Colors Cineplex HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://neestreamtv.com/jcinema/stream.m3u8?id=3774155|Referer=https://neestreamtv.com/
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Colors_Cineplex_Superhits_logo.jpg/640px-Colors_Cineplex_Superhits_logo.jpg", Colors Cineplex SuperHits HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://neestreamtv.com/jcinema/stream.m3u8?id=3479683|Referer=https://neestreamtv.com/
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Colors-Cineplex-Bollywood.png", Colors Cineplex Bollywood HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://neestreamtv.com/jcinema/stream.m3u8?id=3845693|Referer=https://neestreamtv.com/
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="Colors Infinity HD", Colors Infinity HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://neestreamtv.com/jcinema/stream.m3u8?id=3774150|Referer=https://neestreamtv.com/
