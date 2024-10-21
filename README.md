@@ -1880,10 +1880,10 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/150480.m3u8
 http://103.124.251.164:28015/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee-Cinema-HD.jpg", Zee Cinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+http://starshare.live/live/Mohim90/Skytv90/220.ts
 
 #EXTINF:-1 tvg-id=167 tvg-name="Zee TV HD" group-title="Zee5 Group"  group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/zee-tv-hd.png", Zee TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+http://starshare.live/live/Mohim90/Skytv90/46.ts
 
 #EXTINF:-1 tvg-id="194403" group-title="Dish TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/DishTV_India_Logo_-_New.svg/440px-DishTV_India_Logo_-_New.svg.png" tvg-logo="https://sund-images.sunnxt.com/194403/200x200_SunTVHD_194403_8ad3d2a8-5344-4d5c-956c-ccbfb25b2431.png",Sun TV HD
 http://217.20.112.199/suntv/index.m3u8
