@@ -9205,7 +9205,7 @@ http://cdn.troya.one:80/ch2243/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEp5
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={46f124209392f3db564ade5ecfff1d10:b6485da0ff018c4d758520865c19a598}
-#EXTINF:-1 tvg-id="210.astro" group-title="Astroxx Special" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/571_144.png",Rusi
+#EXTINF:-1 tvg-id="210.astro" group-title="Astro Special" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/571_144.png",Rusi
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5168/default_primary.mpd
 
