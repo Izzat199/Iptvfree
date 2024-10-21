@@ -5365,26 +5365,6 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-#EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="http://14.102.123.50:5001/jtvimage/Color_Cineplex_HD.png", Colors Cineplex HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3774155|Referer=https://moonkerala.xyz/
-
-#EXTINF:-1 tvg-id=279 tvg-name="Rishtey" group-title="Voot T﻿V Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="http://14.102.123.50:5001/jtvimage/Rishtey.png", Colors Rishtey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://moonkerala.xyz/jcinema/stream.m3u8?chunks=76426c0ea675d9389b947edcd24ccd95ad1f5a745c26106b629fb7673e998249f84b21d142a1d40dc1ee2f875c4fe9998d511e1afbb701933961796bf821f347b0f932da75b993ce6cf38fe77f02339041c154a0115f322b536ebc28abf5472616ce6bd4d4fef403df76cc05031f6b1283091c8968924efce0934f10cfd713d7675f93f988146029eb1362c741c144c23aed4d678def2e7f0903c184f88b000180c1ca8097218c57dd99c503ef29756728bb8d423ff47247d187f3f1542b3814252f429199b832f132fb6ffd754040f9fb96750ab38e3328e1ae6cbffcc40f1fcaf6a4caf9e5b7e120afbfa8889480decac533d918c18acc1b9964ee9fc8aff2d632c099eb7853285450f3e71bcd2198&vtoken=|Referer=https://moonkerala.xyz/
-
-#EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="http://14.102.123.50:5001/jtvimage/Rishtey_Cineplex.png", Colors Cineplex Superhit
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3479683|Referer=https://moonkerala.xyz/
-
-#EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Cineplex_Bollywood.png", Colors Cineplex Bollywood
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3845693|Referer=https://moonkerala.xyz/
-
-#EXTINF:-1 tvg-id=1984 tvg-name="Sports18 1 HD" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="http://14.102.123.50:5001/jtvimage/Sports18_1_HD.png", Sports18 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://moonkerala.xyz/jcinema/stream.m3u8?chunks=76426c0ea675d9389b947edcd24ccd95ad1f5a745c26106b629fb7673e998249b961ff4ef77ed68e6ccaf86fc3a40be5f3ae2a9985eb266c5f1a4dd09070cb813d6acb6df270ba2a583bf819c253d19cbf48b5e0c9ff11f32b8f87866ffc017491ae09a4085a44c8d71cd724edc38550b6eee098ef91e254365a9001105f1792dbda6e6d17cbb6eb066e62b2c8fff3708036c7199a2a363d36c3f4cbe9d82764777d546b7222c2e544370020c3756f9c1a4d8cb0e8a256cbcd9f19765b95d463e6e7b811fb987a5f38b566c0a19727cb618439c311d2e8fd9d4eea3db8c5d2a9bd13ccb8a781bbce169e136b339ca466b760f9dc62d9cb151e244b57e7fddf7147961bfdfe871c16f930d6ec7f57d51d&vtoken=|Referer=https://moonkerala.xyz/
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Bangladesh Local TV" group-logo="https://i.postimg.cc/zfYybCB8/unnamed-6.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/400px-Mohona_tv_Logo.svg.png",Mohona TV
 https://livess.ncare.live/live-orgin/Mohona-g.stream/playlist.m3u8
 
@@ -9346,3 +9326,7 @@ http://cdn.troya.one:80/ch2243/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEp5
 #EXTINF:-1 tvg-id="210.astro" tvg-name="RUSI" group-title="Aneka Indian" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/RUSI_HD.png" ch-number="210",210 RUSI
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5168/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png", Colors HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://neestreamtv.com/jcinema/stream.m3u8?id=3694429|Referer=https://neestreamtv.com/
