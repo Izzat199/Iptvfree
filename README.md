@@ -7760,7 +7760,7 @@ https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://www.popc-tv.com/assets/img/logos/channel-list/popc-3d.webp",PopC
-https://z88.ubtvfans.com/live/rx1/2818/b74642d4d6cc5edbb1fd792a996f6768/index.m3u8
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true", ViuTV Six
 https://z88.ubtvfans.com/live/rx1/176/b2b6957e3699957899727f34e90d7cf8/index.m3u8
