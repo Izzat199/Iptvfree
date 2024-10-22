@@ -9349,63 +9349,63 @@ https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e
 #KODIPROP:inputstream.adaptive.license_key=9b05d5f11a0b422d86354c34782ed2bc:82aef319b4cfc71fd48cdd495ee79786
 https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
 
-#EXTINF:-1 group-title="Batman Movies Collection" group-logo="https://ahscatseye.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-07-at-9.21.41-AM.png" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009176X0-portrait.jpg",Batman Forever 1995
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Batman Movies Collection" group-logo="https://ahscatseye.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-07-at-9.21.41-AM.png" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009176X0-portrait.jpg",Batman Forever 1995
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0X2iQc3uHt8s8UUxPkPk8Q","kid":"uaC9tGnXUzCsDViGLJE4oA"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe83fee59f821aa9e6ef63_hbovodhd/dash0/IDN_index.mpd
 
-#EXTINF:-1 group-title="Batman Movies Collection" group-logo="https://ahscatseye.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-07-at-9.21.41-AM.png" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009175X0-portrait.jpg",Batman 1989
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Batman Movies Collection" group-logo="https://ahscatseye.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-07-at-9.21.41-AM.png" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009175X0-portrait.jpg",Batman 1989
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C+Yw+g4oAZjAmnrfDUHulg","kid":"x7F5akOcXfaLge8/6k9rrw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe7965e59f821aa9e6ee5c_hbovodhd/dash0/IDN_index.mpd
 
-#EXTINF:-1 group-title="Batman Movies Collection" group-logo="https://ahscatseye.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-07-at-9.21.41-AM.png" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009606X0-portrait.jpg",Batman Returns 1992
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Batman Movies Collection" group-logo="https://ahscatseye.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-07-at-9.21.41-AM.png" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009606X0-portrait.jpg",Batman Returns 1992
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ysIc4cD57CMmSme4u+FvMw","kid":"ylphBMYvUxucDjOIZZujOw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fbc8a3e59f821aa9e6ae4b_hbovodhd/dash0/IDN_index.mpd
 
-#EXTINF:-1 group-title="Transformers Movies Collection" group-logo="https://i.ebayimg.com/images/g/A4oAAOSwTaFhgQrH/s-l1200.webp" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009275X0-portrait.jpg",Transformers 2007
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers Movies Collection" group-logo="https://i.ebayimg.com/images/g/A4oAAOSwTaFhgQrH/s-l1200.webp" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009275X0-portrait.jpg",Transformers 2007
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"54BDXU0fDw3dm8PpVZqc4A","kid":"7/aumWa3CAX413veBsbRxQ"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bf979d940521074bb2b50_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Transformers Movies Collection" group-logo="https://i.ebayimg.com/images/g/A4oAAOSwTaFhgQrH/s-l1200.webp" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/010422X0-portrait.jpg",Transformers: Revenge Of The Fallen 2009
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers Movies Collection" group-logo="https://i.ebayimg.com/images/g/A4oAAOSwTaFhgQrH/s-l1200.webp" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/010422X0-portrait.jpg",Transformers: Revenge Of The Fallen 2009
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6GLzD2/zbUvK/WanGUVmLg","kid":"SFcsmLZmVtCEBXW2mMSbNA"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7f8fb33ae366782ad9a3b8_hbovodhd/dash0/IDN_index.mpd
 
-#EXTINF:-1 group-title="Transformers Movies Collection" group-logo="https://i.ebayimg.com/images/g/A4oAAOSwTaFhgQrH/s-l1200.webp" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013685X0-portrait.jpg",Transformers: Dark Of The Moon 2011
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers Movies Collection" group-logo="https://i.ebayimg.com/images/g/A4oAAOSwTaFhgQrH/s-l1200.webp" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/013685X0-portrait.jpg",Transformers: Dark Of The Moon 2011
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MJ7gGzSDJIVFXB8ZYbKvxA","kid":"lTubvZMBUmCLU+d2uwvfyg"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fa0c63ae366782ad9a573_hbovodhd/dash0/IDN_index.mpd
 
-#EXTINF:-1 group-title="Transformers Movies Collection" group-logo="https://i.ebayimg.com/images/g/A4oAAOSwTaFhgQrH/s-l1200.webp" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018147X0-portrait.jpg",Transformers: Age Of Extinction 2014
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers Movies Collection" group-logo="https://i.ebayimg.com/images/g/A4oAAOSwTaFhgQrH/s-l1200.webp" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018147X0-portrait.jpg",Transformers: Age Of Extinction 2014
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JT0qPQe0X2AqMEDFBgc+5g","kid":"qC5BraoFN1gWsSbSKjo/nw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636bb0d4d940521074bb23e3_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Transformers Movies Collection" group-logo="https://i.ebayimg.com/images/g/A4oAAOSwTaFhgQrH/s-l1200.webp" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020839X0-portrait.jpg",Transformers: The Last Knight 2017
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers Movies Collection" group-logo="https://i.ebayimg.com/images/g/A4oAAOSwTaFhgQrH/s-l1200.webp" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020839X0-portrait.jpg",Transformers: The Last Knight 2017
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YsdZW/iqwiqGh1moqQnK8w","kid":"yOZ0FzlDVkW5w3Ufr7HY6Q"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c5c42f88e44305724857458_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="Transformers Movies Collection" group-logo="https://i.ebayimg.com/images/g/A4oAAOSwTaFhgQrH/s-l1200.webp" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041163X0-portrait.jpg",Transformers: Rise Of The Beasts 2023
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Transformers Movies Collection" group-logo="https://i.ebayimg.com/images/g/A4oAAOSwTaFhgQrH/s-l1200.webp" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041163X0-portrait.jpg",Transformers: Rise Of The Beasts 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
