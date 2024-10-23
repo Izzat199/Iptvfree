@@ -4127,7 +4127,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id" group-title="Indonesia Daerah TV" group-logo="https://i.postimg.cc/bYg7HHXW/unnamed-3.png" tvg-logo="https://i.imgur.com/sXsAcZ3.png",Garuda TV (720p)
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/ficom.png",FICOM CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Indonesia Daerah TV" group-logo="https://i.postimg.cc/bYg7HHXW/unnamed-3.png" tvg-logo="https://iptv.urfan.web.id/logo/ficom.png",FICOM CHANNEL
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
@@ -6553,14 +6553,14 @@ https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
 #EXTINF:-1 group-title="Worldwide TV Kids" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="#EXTINF:-1 group-title="Worldwide TV Kids" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://i.postimg.cc/VsBRk971/download-2023-06-02-T004905-154.png", Sky Kids UK
 http://filex.tv:8080/live/mndr111/mndr111/457127.ts
 
-#EXTINF:-1 tvg-id="TVRI Nasional" group-title="TVRI GROUP" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png",TVRI Nasional
+#EXTINF:-1 tvg-id="TVRI Nasional" group-title="TVRI MEDIA GROUP" group-logo="https://image.winudf.com/v2/image1/Y29tLnR2cmkuaHViX2ljb25fMTU1NDk1MjYxOV8wNTk/icon.png?w=184&fakeurl=1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png",TVRI Nasional
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-id="TVRI WORLD" group-title="TVRI GROUP" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/TVRI_World_Logo_2021_Variant.png/revision/latest?cb=20220222092300",TVRI World
+#EXTINF:-1 tvg-id="TVRI WORLD" group-title="TVRI MEDIA GROUP" group-logo="https://image.winudf.com/v2/image1/Y29tLnR2cmkuaHViX2ljb25fMTU1NDk1MjYxOV8wNTk/icon.png?w=184&fakeurl=1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/TVRI_World_Logo_2021_Variant.png/revision/latest?cb=20220222092300",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 tvg-id="TVRISport.id" group-title="TVRI GROUP" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVRI_Sport_HD_%282019%29_ver2.svg/revision/latest/scale-to-width-down/1200?cb=20190331112412",TVRI Sport
+#EXTINF:-1 tvg-id="TVRISport.id" group-title="TVRI MEDIA GROUP" group-logo="https://image.winudf.com/v2/image1/Y29tLnR2cmkuaHViX2ljb25fMTU1NDk1MjYxOV8wNTk/icon.png?w=184&fakeurl=1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVRI_Sport_HD_%282019%29_ver2.svg/revision/latest/scale-to-width-down/1200?cb=20190331112412",TVRI Sport
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
