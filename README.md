@@ -4127,7 +4127,8 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id" group-title="Indonesia Daerah TV" group-logo="https://i.postimg.cc/bYg7HHXW/unnamed-3.png" tvg-logo="https://i.imgur.com/sXsAcZ3.png",Garuda TV (720p)
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
-#EXTINF:-1 tvg-id="FicomChannel.id" group-title="Indonesia Daerah TV" group-logo="https://i.postimg.cc/bYg7HHXW/unnamed-3.png" tvg-logo="https://i.ibb.co/nqX0CBx/f-1.png",Ficom Channel (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/ficom.png",FICOM CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MagnaChannel.id" group-title="Indonesia Daerah TV" group-logo="https://i.postimg.cc/bYg7HHXW/unnamed-3.png" tvg-logo="https://i.imgur.com/tfJo0SO.png",Magna Channel (1080p) [Not 24/7]
