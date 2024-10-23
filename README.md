@@ -9412,3 +9412,35 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c5c42f88e443057248
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=08a2cb77aee4f2ac04ecd63960968ff5:53297eef65dfb04b4efce81dfbafb850
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65454aafd940521074e79d0c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TVRI MEDIA GROUP" group-logo="https://image.winudf.com/v2/image1/Y29tLnR2cmkuaHViX2ljb25fMTU1NDk1MjYxOV8wNTk/icon.png?w=184&fakeurl=1" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Yogyakarta
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TVRI MEDIA GROUP" group-logo="https://image.winudf.com/v2/image1/Y29tLnR2cmkuaHViX2ljb25fMTU1NDk1MjYxOV8wNTk/icon.png?w=184&fakeurl=1" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Jawa Tengah
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TVRI MEDIA GROUP" group-logo="https://image.winudf.com/v2/image1/Y29tLnR2cmkuaHViX2ljb25fMTU1NDk1MjYxOV8wNTk/icon.png?w=184&fakeurl=1" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Bali
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TVRI MEDIA GROUP" group-logo="https://image.winudf.com/v2/image1/Y29tLnR2cmkuaHViX2ljb25fMTU1NDk1MjYxOV8wNTk/icon.png?w=184&fakeurl=1" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Jakarta
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TVRI MEDIA GROUP" group-logo="https://image.winudf.com/v2/image1/Y29tLnR2cmkuaHViX2ljb25fMTU1NDk1MjYxOV8wNTk/icon.png?w=184&fakeurl=1" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Sumatera Barat
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TVRI MEDIA GROUP" group-logo="https://image.winudf.com/v2/image1/Y29tLnR2cmkuaHViX2ljb25fMTU1NDk1MjYxOV8wNTk/icon.png?w=184&fakeurl=1" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Sumatera Selatan
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TVRI MEDIA GROUP" group-logo="https://image.winudf.com/v2/image1/Y29tLnR2cmkuaHViX2ljb25fMTU1NDk1MjYxOV8wNTk/icon.png?w=184&fakeurl=1" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Sumatera Utara
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TVRI MEDIA GROUP" group-logo="https://image.winudf.com/v2/image1/Y29tLnR2cmkuaHViX2ljb25fMTU1NDk1MjYxOV8wNTk/icon.png?w=184&fakeurl=1" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Bangka Belitung
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
