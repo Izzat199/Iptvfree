@@ -3128,8 +3128,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/Z8G8MY6ZAU3S5C/558/index.m3u8
 #EXTINF:0 tvg-id="5380" group-title="US Music" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sling_TV_logo.svg/640px-Sling_TV_logo.svg.png" tvg-logo="http://epg.one/img2/5380.png" tvg-rec="0",RETRO TV
 http://rhsbjv7k.tvclub.xyz/iptv/Z8G8MY6ZAU3S5C/14169/index.m3u8
 
-#EXTINF:-1 tvg-id="TTVHD" tvg-name="TTVHD" group-title="TAIWAN TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/2000px-Flag_of_the_Republic_of_China.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nqtUNdO_BrFM4nq-X5co4mZ6mJZmpFRkQVJb9j0dLg&s",TTV HD
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8﻿
 
 #EXTINF:-1 tvg-id="FTVHD" tvg-name="FTVHD" group-title="TAIWAN TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/2000px-Flag_of_the_Republic_of_China.svg.png" tvg-logo="https://amcham.com.tw/wp-content/uploads/2020/12/ftv-news-logo.png",FTV HD
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
@@ -3137,29 +3135,17 @@ http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://i.postimg.cc/dVL1RvCM/muat-turun-40.jpg",TVBS HD
 http://37.27.111.214:8080/live/23/hls.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://i.postimg.cc/Jnkmt4Sx/muat-turun-41.jpg",CTS Asia
+#EXTINF:-1, tvg-id="" tvg-name="" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/CTV_simple_4th_logo.jpg",CTV Asia
 http://37.27.111.214:8080/live/7/hls.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://i.postimg.cc/Jnkmt4Sx/muat-turun-41.jpg",CTS Asia (Ubfan Feed)
-https://z02.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://i.postimg.cc/P5XwDBXY/muat-turun-35.png",FTV ONE (A)
+#EXTINF:-1, tvg-id="" tvg-name="" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://i.postimg.cc/P5XwDBXY/muat-turun-35.png",FTV ONE 
 http://37.27.111.214:8080/live/4/hls.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://i.postimg.cc/P5XwDBXY/muat-turun-35.png",FTV ONE (B)
-http://wanjiatv.net/4g03.php?id=2&rps=1221Invalid
 
 #EXTINF:-1, tvg-id="" tvg-name="" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://www.lyngsat.com/logo/tv/ff/ftv-taiwan-tw.svg",FTV TAIWAN 
 http://37.27.111.214:8080/live/5/hls.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://i.postimg.cc/cHqVjX0N/muat-turun-43.jpg",Jingyang Drama TV 
-http://xg.52sw.top:5000/litv/4gtv-4gtv045
-
 #EXTINF:-1, tvg-id="" tvg-name="" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://i.postimg.cc/jSvZnpfJ/images-48.png",TVBS Entertainment HD 
 http://37.27.111.214:8080/live/24/hls.m3u8
-
-#EXTINF:-1, tvg-id="" tvg-name="" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://variety.com/wp-content/uploads/2020/12/CTITV-rec-res.jpg?w=681&h=383&crop=1&resize=450%2C253",CTI VARIETY ASIA
-http://61.221.215.25:8800/hls/41/index.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5e/SET_International_Channel_logo.gif",Seti三立戲劇台 
 http://61.221.215.25:8800/hls/41/index.m3u8
@@ -3172,9 +3158,6 @@ http://37.27.111.214:8080/live/24/hls.m3u8
 
 #EXTINF:-1 tvg-id="7135" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",FORMOSA TV
 http://37.27.111.214:8080/live/6/hls.m3u8
-
-#EXTINF:-1 tvg-id="6026" group-title="TAIWAN TV" group-logo="https://i.postimg.cc/fLLtnrkP/images-49.png" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png",TTV
-http://185.243.4.229:80/live/7921751389/6097373662/5502.m3u8
 
 #EXTINF:-1 tvg-id="nhkg_tokyo" group-title="Japan Digital TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Japan_flag_-_variant.png/1600px-Japan_flag_-_variant.png?20050603060929" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
 https://vnpt.nekocdn.xyz/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8
