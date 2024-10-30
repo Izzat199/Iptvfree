@@ -9229,3 +9229,55 @@ http://111.8.242.151:9902/tsfile/live/1066_1.m3u8?key=tx111.8.242.151:9902tv&pla
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Fhunan-tv.jpg&h=630&w=1200&q=75&v=20170226&c=1", Hunan Satellite TV
 http://222.241.154.37:9901/tsfile/live/23019_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/CCTV1.png/revision/latest/scale-to-width-down/340?cb=20240112013931&path-prefix=vi",CCTV1 (Comprehensive)
+http://111.8.242.151:9902/tsfile/live/1001_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png",CCTV2 (Finance)
+http://111.8.242.151:9902/tsfile/live/1002_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/CCTV3_201009_logo.png/revision/latest?cb=20210728012534",CCTV3 (Variety Show)
+http://111.8.242.151:9902/tsfile/live/1003_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://i.namu.wiki/i/Wo8J6-ptBDTqdGyat5vrec4EwHlnTXCvzHW6yrEiRO38AWD4Jd3GWHpeos0UGJYyJ4FFTAv291GQgnwjP8LU_A.svg",CCTV4 (International)
+http://111.8.242.151:9902/tsfile/live/1007_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV5 (Sports)
+http://111.8.242.151:9902/tsfile/live/1008_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://images.sports8.cc/cimg/181.jpg",CCTV5+ (Sports)
+http://111.8.242.151:9902/tsfile/live/1052_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5e/CCTV-6%E7%94%B5%E5%BD%B1.png/revision/latest/scale-to-width-down/340?cb=20190224081648&path-prefix=ru",CCTV6 (Movies)
+http://111.8.242.151:9902/tsfile/live/1024_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://i.namu.wiki/i/NMtKsGQVRCXfy6TIJ4_hCWZjI4qFBts0qKG9UVrgrcTAnamhjabcQ8q-n7WkiC3Pyqs_pa-KKRMa77v_gR00CA.svg",CCTV7
+http://111.8.242.151:9902/tsfile/live/1077_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021020628373569.jpg",CCTV8 (TV Series)
+http://111.8.242.151:9902/tsfile/live/1034_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://i.namu.wiki/i/u_MUUBUWsHCxgMRNn-noYmtZIgx9FzpI9jI_Rmgo-0bVkinSQ9C5SfwfrSxPFRKtXfX8gswxhoGz3Ew-7uAkkA.svg",CCTV9 (Record)
+http://111.8.242.151:9902/tsfile/live/1039_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://archive.org/download/cctv-10-america/cctv-10-america.png",CCTV10 (Science and Education)
+http://111.8.242.151:9902/tsfile/live/1039_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/CCTV_channel_11.svg/1200px-CCTV_channel_11.svg.png",CCTV11 (Opera)
+http://111.8.242.151:9902/tsfile/live/1041_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://i.namu.wiki/i/TQuzhQVx38EUjeErYm2DxuzsZYTScHKMQigIhIwJJfoFdvJixxSUGCNI-r-SzTcPLFbPi8Dvbja8CtWzE5xYqQ.svg",CCTV12 (Socialty and Law)
+http://111.8.242.151:9902/tsfile/live/1043_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv13.jpg",CCTV13 (News)
+http://111.8.242.151:9902/tsfile/live/1045_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://static.wikia.nocookie.net/happy-heroes/images/c/c8/CCTV-14_Logo.png/revision/latest?cb=20201002050804",CCTV14 (Children)
+http://111.8.242.151:9902/tsfile/live/1046_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/CCTV_channel_15.svg/1200px-CCTV_channel_15.svg.png",CCTV15 (Music)
+http://111.8.242.151:9902/tsfile/live/1049_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CCTV-17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.svg/revision/latest?cb=20240111160654",CCTV17
+http://111.8.242.151:9902/tsfile/live/1025_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
