@@ -7437,42 +7437,6 @@ https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="HiYAH.us" group-title="Worldwide TV Movies" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png﻿-image_673701.jpg" tvg-logo="https://i.imgur.com/sOYAnTB.png",Hi-YAH! 
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://www.popc-tv.com/assets/img/logos/channel-list/popc-3d.webp",PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true", ViuTV Six
-https://z88.ubtvfans.com/live/rx1/176/b2b6957e3699957899727f34e90d7cf8/index.m3u8
-
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png?raw=true", ViuTV 
-https://z88.ubtvfans.com/live/rx1/2334/3d9e7fa4ea20135297395694ae635e7d/index.m3u8
-
-#EXTINF:-1 tvg-id="TVB ASIAN ACTION" tvg-name="TVB ASIAN ACTION" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/205_144.png",TVB ASIAN ACTION
-https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TVB Entertainment News" tvg-name="TVB Entertainment News" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTZJ7dA__mpFfdmbsyUx6GXfqXOuo0697KqegQ8qP&s",TVB Entertainment News 
-https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TVB Pearl" tvg-name="TVB Pearl" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://img.tvb.com/corporate/_fck_/image/Pearl.jpg",TVB Pearl
-https://z88.ubtvfans.com/live/rx1/2437/d18c0dca00d0f0ed1381a2eec64c00e8/index.m3u8
-
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/6/63/TVBPlus.webp/revision/latest?cb=20240501234348",TVB Plus
-https://z88.ubtvfans.com/live/rx1/392/f0a4f36cc4512c88feb32fe90dcdf284/index.m3u8
-
-#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/astro-jade.jpeg.webp",TVB Jade
-https://z88.ubtvfans.com/live/rx1/30/c42e16b9b557b6bf5ecd8e282c711ee8/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxnWFBOn0Ody8w5CuG5vUP6cUqgPU7swGj7A&s",Hoy TV 76
-https://z88.ubtvfans.com/live/rx1/354/99db3b3c9d6f54c585cf30f97f45f3a9/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://www.tvchinese.net/uploads/tv/tvbyueyu.jpg",TVB CLASSIC MOVIES 
-https://z88.ubtvfans.com/live/rx1/1589/1624461c43c7c271178724c93a0d5808/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:100/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",TVB CLASSIC 
-https://z88.ubtvfans.com/live/rx4/1083/017333dd71cce6b700edd989820e11cd/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Hong Kong TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png" tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613716056_497_small.jpg",TVB Xing He 
-https://z88.ubtvfans.com/live/rx4/1079/140d6886cb983b13354c31bbb06be710/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Anime Channel" group-logo="https://w7.pngwing.com/pngs/269/263/png-transparent-logo-anime-a-television-anime-television-angle-text.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Tooniverse_logo.png",Tooniverse KR 
 https://hlspull.iptv8k.top/iptv/ubtv.php?id=1134
 
@@ -9274,3 +9238,32 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
 #EXTINF:-1 tvg-id="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",&TV
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://nowbaogusuperstars.com/baogucms/cmsfrontend/img/icons/baogu_logo_head_superstars.png",NOW BAOGU MOVIES SUPERSTARS 
+http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=881
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://hk.nowbaogumovies.com/img/baogu_logo_head_hk.png",NOW BAOGU MOVIES 
+http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=880
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png?raw=true", ViuTV 
+http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=811
+
+#EXTINF:14 tvg-id="aktv/null-2" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png", TVB PEARL 明珠台 (A)
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:14 tvg-id="aktv/null-2" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png", TVB PEARL 明珠台 (B)
+http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=820
+
+#EXTINF:2 tvg-id="aktv/popc" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://www.popc-tv.com/assets/img/logos/channel-list/popc-3d.webp", PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+
+#EXTINF:3 tvg-id="aktv/tvbplus" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/6/63/TVBPlus.webp/revision/latest?cb=20240501234348", TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
