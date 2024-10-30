@@ -9263,3 +9263,10 @@ http://111.8.242.151:9902/tsfile/live/1049_1.m3u8?key=tx111.8.242.151:9902tv&pla
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CCTV-17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.svg/revision/latest?cb=20240111160654",CCTV17
 http://111.8.242.151:9902/tsfile/live/1025_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
+#EXTINF:-1 tvg-id="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",&TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
