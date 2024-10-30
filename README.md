@@ -9239,7 +9239,7 @@ http://111.8.242.151:9902/tsfile/live/1002_1.m3u8?key=tx111.8.242.151:9902tv&pla
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/CCTV3_201009_logo.png/revision/latest?cb=20210728012534",CCTV3 (Variety Show)
 http://111.8.242.151:9902/tsfile/live/1003_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://i.namu.wiki/i/Wo8J6-ptBDTqdGyat5vrec4EwHlnTXCvzHW6yrEiRO38AWD4Jd3GWHpeos0UGJYyJ4FFTAv291GQgnwjP8LU_A.svg",CCTV4 (International)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/cctv4-656x388.jpg",CCTV4 (International)
 http://111.8.242.151:9902/tsfile/live/1007_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV5 (Sports)
@@ -9251,13 +9251,13 @@ http://111.8.242.151:9902/tsfile/live/1052_1.m3u8?key=tx111.8.242.151:9902tv&pla
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5e/CCTV-6%E7%94%B5%E5%BD%B1.png/revision/latest/scale-to-width-down/340?cb=20190224081648&path-prefix=ru",CCTV6 (Movies)
 http://111.8.242.151:9902/tsfile/live/1024_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://i.namu.wiki/i/NMtKsGQVRCXfy6TIJ4_hCWZjI4qFBts0qKG9UVrgrcTAnamhjabcQ8q-n7WkiC3Pyqs_pa-KKRMa77v_gR00CA.svg",CCTV7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyFBbk5Z6VqYbPT7wLt6dT74EQ-PloInt-ow&usqp=CAU",CCTV7
 http://111.8.242.151:9902/tsfile/live/1077_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021020628373569.jpg",CCTV8 (TV Series)
 http://111.8.242.151:9902/tsfile/live/1034_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://i.namu.wiki/i/u_MUUBUWsHCxgMRNn-noYmtZIgx9FzpI9jI_Rmgo-0bVkinSQ9C5SfwfrSxPFRKtXfX8gswxhoGz3Ew-7uAkkA.svg",CCTV9 (Record)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnBND-BeNIy2LUuKeJxRgVKXElRQyAavkLw&s",CCTV9 (Record)
 http://111.8.242.151:9902/tsfile/live/1039_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://archive.org/download/cctv-10-america/cctv-10-america.png",CCTV10 (Science and Education)
