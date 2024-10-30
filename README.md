@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/malaysia.xml.gz"  
 refresh="3600"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/daisy77a/epg/main/tonton.xml", refresh="24" max-conn="0"
@@ -1838,12 +1839,6 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/150480.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="" group-title="Airtel Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Airtel_digitalTV.png/440px-Airtel_digitalTV.png" tvg-logo="https://i.postimg.cc/L6xTVZkV/muat-turun-12.png",Super Hungama 
 http://103.124.251.164:28015/play/a02n/index.m3u8
-
-#EXTINF:-1 tvg-id=165 tvg-name="Zee Cinema HD" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee-Cinema-HD.jpg", Zee Cinema HD
-http://starshare.live/live/Mohim90/Skytv90/2439.ts
-
-#EXTINF:-1 tvg-id=167 tvg-name="Zee TV HD" group-title="Zee5 Group"  group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/zee-tv-hd.png", Zee TV HD
-http://starshare.live/live/Mohim90/Skytv90/46.ts
 
 #EXTINF:-1 tvg-id="194403" group-title="Dish TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/DishTV_India_Logo_-_New.svg/440px-DishTV_India_Logo_-_New.svg.png" tvg-logo="https://sund-images.sunnxt.com/194403/200x200_SunTVHD_194403_8ad3d2a8-5344-4d5c-956c-ccbfb25b2431.png",Sun TV HD
 http://217.20.112.199/suntv/index.m3u8
@@ -7482,84 +7477,6 @@ https://archive.org/download/MurotalMR/114.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="YTube@Entertainment" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logo_of_YouTube_%282013-2015%29.svg/1336px-Logo_of_YouTube_%282013-2015%29.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv5zTe2qolgVjE0OLAfLp6OI8EatXHObFP0g&s",MR Bean Live Action
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727027823/ei/DwbwZoXsK_q9juMP8LWR-QI/ip/115.132.126.205/id/uTMc48XmjrA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51273604/txs/51273600%2C51273601%2C51273602%2C51273603%2C51273604%2C51273605/hfr/1/playlist_duration/30/manifest_duration/30/gcr/my/spc/54MbxXCphmA8ceveL1MZlIKtv7OorCk4eHlSzKcEBLSksLjU8Wn3UKVmFaAEWvZixQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgCWrIfWy9rGiQ2VtyOOV1fgWbFAYGz4s3mv9zDiBiExwCIQC_Chlp6xRoLCQZ4fMHMXKWdlyr-_2GABy5P2GuDRMFTg%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",Zee Bangla SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://multireach.in/wp-content/uploads/2023/04/PICTURES-HD.jpg",& Pictures HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",ZEE TV SD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv1/default/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png",ZEE ANMOL
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/07/TV-HD-1-2.jpg",&TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://i.postimg.cc/cCNw85N5/channels4-profile-10.jpg" ,ZING
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing1/default/zing.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg",ZEE TAMIL
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil1/default/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/channel_list/1170x658310781121.png",ZEE Bangla HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest/scale-to-width-down/300?cb=20210509174741" ,ZEE 24 GHONTA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png",DD NASIONAL
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp_3n3h4gGAaG0YNd-XSZh8Gz6QQPCKsrY8Q&s",ZEE BANGLA CINEMA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://u﻿pload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Zee_Marathi_Official_Logo.jpg/2560px-Zee_Marathi_Official_Logo.jpg",Zee Marathi
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi1/default/zeemarathi1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Zee_talkies_hd.png/revision/latest/scale-to-width-down/1200?cb=20210521135152", Zee Talkies HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKxUNdolkzYueouUhEoi8VrM5rK5XkU0cTWg&s",Zee Cinemalu
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",ZEE ANIMOL CINEMA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Sangeet_Bangla_logo_with_slogan_2006.png/revision/latest?cb=20240322135424",SANGEET BANGLA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/9xm_blue.svg/revision/latest?cb=20210508163726",9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://i.postimg.cc/vDRhGFMP/unnamed-6.jpg",9X JALWA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/MTV_Beats_Logo.png",MTV BEATS SD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sangeet_Bhojpuri.jpg",SANGEET BHOJPURI
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://static.toiimg.com/photo/msid-94940731/zoom-tv-live.jpg",ZOOM
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqgsvfVCC5WZxPxIp7vXTQ11WpCqTd8BZeg&s",ZEE News
-https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/zee_business_india.webp",ZEE BUSINESS
-https://dwby15d04agvq.cloudfront.net/index_5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://india.mom-gmr.org/uploads/tx_lfrogmom/media/16536-1592_import.png",INDIA TODAY
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/440px-NDTV_247.svg.png",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTFElWLxssltkVn4mYhJS-ZWI7O-KPAqhsw&s",NDTV Profit
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
-
 #EXTINF:-1, tvg-id="" tvg-name="" group-title="Worldwide TV Music" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="https://i.imgur.com/9dz8MsD.png",Muzzik Electro
 https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 
@@ -7580,39 +7497,6 @@ https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TIKTAK.rs" group-title="Worldwide TV Music" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png-image_673701.jpg" tvg-logo="http﻿s://i.imgur.com/9dz8MsD.png",Muzzik TIKTAK (720p)
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",Zee Action 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Kannada.png/1200px-Zee_Kannada.png",Zee Kannada
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada1/default/zeekannada1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg/revision/latest?cb=20191214174432",Zee Bollywood 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_One_present_logo.png/400px-Zee_One_present_logo.png",Zee One (Germany Version)
-https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Aflam_Logo_2017.jpg/400px-Zee_Aflam_Logo_2017.jpg",Zee Aflam (Arabic Version)
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg",Zee Alwan (Arabic Version)
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzJTiv4ckhdOcUwU-0-hSc8zwciaOn-GFdUg&s",Colors Hindi 
-http://103.84.57.155:8000/play/a082/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png",Zee Cafe HD 
-https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Australia&New Zealand" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/440px-Sky_Group_logo_2020.svg.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 2 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37400.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYY2QpNVKljZDAXM7jYdmc2C-ZHNGxs2I_DLopdlhc&s",&Prive 
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTdmAKuPV3ghwNm14cC2r-itQkcLdf2nCWHlSd89I&s",&Flix 
-https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="South Indian" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQGHZRlbWyl-wg/company-logo_200_200/company-logo_200_200/0/1712209128979?e=2147483647&v=beta&t=p_06_8kIY2Uh0cWApRoy4Tlk3SPy7S100P6_-B4IUIs",Thanthi One
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
@@ -7667,9 +7551,6 @@ https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-a
 
 #EXTINF:-1 tvg-id="WeatherNation.us" group-title="US Weather" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sling_TV_logo.svg/640px-Sling_TV_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/512px-WeatherNation_Logo.svg.png",WeatherNation
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1028-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcca8395-396e-4be0-9049-564f29c5ac9b
-
-#EXTINF:-1 group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12207-j9qlt5vk-v2/imageContent-12207-j9qlt5vk-m2.png" group-title="ZEE5", Zee Sarthak
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak1/default/zeesarthak1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Anand Media Group [VPN]" group-logo="https://www.anandmedia.net/assets/images/anandmedia_aboutlogo.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Asianet_Plus.png/revision/latest/scale-to-width-down/600?cb=20110929161258",Asianet Plus
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=724505&extension=ts
@@ -9437,3 +9318,38 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel's Box Movies Collection" group-logo="https://img.freepik.com/premium-vector/vod-video-demand-neon-icon-video-monetization-vector-stock-illustration_100456-8370.jpg" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2021/11/film-shang-chi-and-the-legend-of-the-ten-rings-2021-d21.jpg",Shang-Chi and the Legend of the Ten Rings (2021)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
 https://stream.hownetwork.xyz/yyy/shang-chi-and-the-legend-of-the-ten-rings-2021-bluray_X_b91e3922/26/480.m3u8|Referer=https://stream.hownetwork.xyz
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_One_present_logo.png/400px-Zee_One_present_logo.png",Zee One (Germany Version)
+https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Aflam_Logo_2017.jpg/400px-Zee_Aflam_Logo_2017.jpg",Zee Aflam (Arabic Version)
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg",Zee Alwan (Arabic Version)
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzJTiv4ckhdOcUwU-0-hSc8zwciaOn-GFdUg&s",Colors Hindi 
+http://103.84.57.155:8000/play/a082/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png",Zee Cafe HD 
+https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Australia&New Zealand" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/440px-Sky_Group_logo_2020.svg.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png", OPTUS 2 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37400.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYY2QpNVKljZDAXM7jYdmc2C-ZHNGxs2I_DLopdlhc&s",&Prive 
+https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTdmAKuPV3ghwNm14cC2r-itQkcLdf2nCWHlSd89I&s",&Flix 
+https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
+#EXTINF:-1 tvg-id="" group-title="Zee5 Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png",Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+
+
+
+
