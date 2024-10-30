@@ -9086,12 +9086,6 @@ https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
 
-#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family +1 HD" group-title="Aneka Movies" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBOFamily.png",414 HBO FAMILY
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856881
-
-#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits +1 HD" group-title="Aneka Movies" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBOHits.png",415 HBO HITS
-http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856882
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9267,3 +9261,48 @@ http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 
 #EXTINF:3 tvg-id="aktv/tvbplus" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/6/63/TVBPlus.webp/revision/latest?cb=20240501234348", TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://nowbaogusuperstars.com/baogucms/cmsfrontend/img/icons/baogu_logo_head_superstars.png",NOW BAOGU MOVIES SUPERSTARS 
+http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=881
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://hk.nowbaogumovies.com/img/baogu_logo_head_hk.png",NOW BAOGU MOVIES 
+http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=880
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png?raw=true", ViuTV 
+http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=811
+
+#EXTINF:14 tvg-id="aktv/null-2" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png", TVB PEARL 明珠台 (A)
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:14 tvg-id="aktv/null-2" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png", TVB PEARL 明珠台 (B)
+http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=820
+
+#EXTINF:2 tvg-id="aktv/popc" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://www.popc-tv.com/assets/img/logos/channel-list/popc-3d.webp", PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+
+#EXTINF:3 tvg-id="aktv/tvbplus" group-title="TVB ANYWHERE" group-logo="https://swosh.sg/wp-content/uploads/2023/06/tv_app_image_tvbanywhere.png" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/6/63/TVBPlus.webp/revision/latest?cb=20240501234348", TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family +1 HD" group-title="Aneka Movies" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBOFamily.png",414 HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits +1 HD" group-title="Aneka Movies" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBOHits.png",415 HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/manifest.mpd
