@@ -9280,4 +9280,3 @@ http://111.8.242.151:9902/tsfile/live/1049_1.m3u8?key=tx111.8.242.151:9902tv&pla
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CCTV-17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.svg/revision/latest?cb=20240111160654",CCTV17
 http://111.8.242.151:9902/tsfile/live/1025_1.m3u8?key=tx111.8.242.151:9902tv&playlive=1&authid=0
-
