@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/malaysia.xml.gz"  
@@ -9250,7 +9249,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023734/index.m
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/CCTV_channel_11.svg/1200px-CCTV_channel_11.svg.png",CCTV11 (Opera)
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031106/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031106
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://i.namu.wiki/i/TQuzhQVx38EUjeErYm2DxuzsZYTScHKMQigIhIwJJfoFdvJixxSUGCNI-r-SzTcPLFbPi8Dvbja8CtWzE5xYqQ.svg",CCTV12 (Socialty and Law)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12 (Socialty and Law)
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032494/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032494
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv13.jpg",CCTV13 (News)
@@ -9265,7 +9264,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031109/index.m
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv16.jpg",CCTV 16
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CCTV-17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.svg/revision/latest?cb=20240111160654",CCTV17
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="CCTV&China Province" group-logo="https://i.postimg.cc/nL8FCqwW/unnamed-1.png" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
