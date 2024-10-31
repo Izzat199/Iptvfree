@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/malaysia.xml.gz"  
@@ -9306,3 +9305,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/manifest.mpd
 #EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits +1 HD" group-title="Aneka Movies" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBOHits.png",415 HBO HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel's Movies Collection" group-logo="https://img.freepik.com/premium-vector/vod-video-demand-neon-icon-video-monetization-vector-stock-illustration_100456-8370.jpg" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/10/film-venom-the-last-dance-2024-lk21-d21.jpg",Venom:The Last Dance (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://stream.hownetwork.xyz/yyy/venom-the-last-dance-2024-hdcam_X_7abe6274/26/480.m3u8|Referer=https://stream.hownetwork.xyz/
