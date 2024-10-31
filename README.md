@@ -9309,3 +9309,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel's Box Movies Collection" group-logo="https://img.freepik.com/premium-vector/vod-video-demand-neon-icon-video-monetization-vector-stock-illustration_100456-8370.jpg" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/10/film-venom-the-last-dance-2024-lk21-d21.jpg",Venom:The Last Dance (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
 https://stream.hownetwork.xyz/yyy/venom-the-last-dance-2024-hdcam_X_7abe6274/26/480.m3u8|Referer=https://stream.hownetwork.xyz/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#EXTINF:-1 tvg-id="astro ria" ch-number="104" tvg-name="RIA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
+https://linears-playback.astro.com.my/vsg/41Fk9diUIDmjTHX_7KeTL2MqjQKndHPomIFeT3anuiGUM=ZsjW/dash-wv/jitp-linearwm/1004/default_primary.mpd
+
+#EXTINF:-1 tvg-id="astro warna" ch-number="107" tvg-name="WARNA HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO WARNA HD
+http://newlife3.wanicelife.com:8880/live/D12m2806/32723612/1706.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="astro citra" ch-number="108" tvg-name="CITRA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO CITRA HD 
+https://linears-playback.astro.com.my/vsg/41GJVua-qjnp61RvUW9mEHcrFsvMPTeQoww6ozLnyyY-Y=0hCo/dash-wv/jitp-linearwm/2700/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="astro prima" ch-number="105" tvg-name="PRIMA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO PRIMA HD
+https://linears-playback.astro.com.my/vsg/41h1DQBjbFgu0nOgnV1pS6y2nQOftRpnZ6vy4BeHEYqCg=_iyy/dash-wv/jitp-linearwm/1000/default_primary.mpd
