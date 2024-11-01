@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/malaysia.xml.gz"  
@@ -67,8 +66,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
 
 #EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" group-title="Aneka Melayu" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Awesome.png?5423",AWESOME TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 21061110AG Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.86 Mobile Safari/537.36
-https://cdnatv.mirack.tv/Atv/index.m3u8|Referer=https://awesometv.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8|Referer=https://awesometv.my/
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
