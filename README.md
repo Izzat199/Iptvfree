@@ -67,7 +67,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
 
 #EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" group-title="Aneka Melayu" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Awesome.png?5423",AWESOME TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8|Referer=https://awesometv.my/
+https://cdnatv.mirack.tv/Atv/index.m3u8|Referer=https://awesometv.my/
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8563,23 +8563,6 @@ http://a6d14905.kazaktelekom.com/iptv/W9NGH2G2DGKXUCSMEU9TKNWL/9293/index.m3u8
 #EXTINF:-1 tvg-name="5 USA" group-title="Sky UK Group" group-logo="https://upload.wikimedia.org/wikipedia/it/a/a2/Sky_TV_Logo.png?20221109115120" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/5USA_logo.svg",5 USA
 https://webhdrunns.mizhls.ru/lb/premium360/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" group-title="Aneka Melayu" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA HD
-http://84.247.146.12:1234/stream/my/ria/master.m3u8
-
-#EXTINF:-1 tvg-id="107.astro" ch-number="107" tvg-name="WARNA HD" group-title="Aneka Melayu" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",ASTRO WARNA HD
-http://84.247.146.12:1234/stream/my/warna/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="108.astro" ch-number="108" tvg-name="CITRA HD" group-title="Aneka Melayu" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA HD 
-https://go.munzstore.xyz/citraz.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-name="PRIMA HD" group-title="Aneka Melayu" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",ASTRO PRIMA HD
-https://go.munzstore.xyz/primaz.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="English Box Movies Collection" group-logo="https://img.freepik.com/premium-vector/vod-video-demand-neon-icon-video-monetization-vector-stock-illustration_100456-8370.jpg" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/07/film-deadpool-wolverine-2024-lk21-d21.jpg",Deadpool and Wolverine (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
 https://stream.hownetwork.xyz/yyy/deadpool-wolverine-2024-webdl_X_74cedeb2/26/480.m3u8|Referer=https://stream.hownetwork.xyz/
@@ -9316,3 +9299,33 @@ https://stream.hownetwork.xyz/yyy/venom-the-last-dance-2024-hdcam_X_7abe6274/26/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#EXTINF:-1 tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" group-title="Aneka Channel Bertoken" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA HD (A)
+https://linears-playback.astro.com.my/vsg/41Fk9diUIDmjTHX_7KeTL2Mp_XmiGlp56Pajqbc0XVHck=0xuM/dash-wv/jitp-linearwm/1004/default_primary.mpd
+
+#EXTINF:-1 tvg-id="104.astro" ch-number="104" tvg-name="RIA HD" group-title="Aneka Channel Bertoken" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA HD (B)
+http://84.247.146.12:1234/stream/my/ria/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+#EXTINF:-1 tvg-id="107.astro" ch-number="107" tvg-name="WARNA HD" group-title="Aneka Channel Bertoken" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",ASTRO WARNA HD (A)
+https://linears-playback.astro.com.my/vsg/41SN2zAynXsamRuVJA209Z8h47JgXh-2jHT9My1hS8Tuk=ot4g/dash-wv/jitp-linearwm/2402/default_primary.mpd
+
+#EXTINF:-1 tvg-id="107.astro" ch-number="107" tvg-name="WARNA HD" group-title="Aneka Channel Bertoken" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png",ASTRO WARNA HD (B)
+http://84.247.146.12:1234/stream/my/warna/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="108.astro" ch-number="108" tvg-name="CITRA HD" group-title="Aneka Channel Bertoken" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",ASTRO CITRA HD 
+https://linears-playback.astro.com.my/vsg/41GJVua-qjnp61RvUW9mEHcktEgqBdA9iYIRBbase3scs=clGg/dash-wv/jitp-linearwm/2700/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-name="PRIMA HD" group-title="Aneka Channel Bertoken" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",ASTRO PRIMA HD
+https://linears-playback.astro.com.my/vsg/41h1DQBjbFgu0nOgnV1pS6yw3OLGNpdF5mqHZsimjHZ2c=mb5h/dash-wv/jitp-linearwm/1000/default_primary.mpd
+
+
+
