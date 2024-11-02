@@ -8020,11 +8020,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
 #KODIPROP:inputstream.adaptive.license_key=aec51cf82ef14226a097a4ff91b7b32e:652bcaec397fb789fa5138fd3461333c
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EVNYahpFPgNAJxSimZZFZA", "kid":"EiyEvBMJQFhslhuuZSs2EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="100.astro" group-title="Astroxx Special" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/LOL.png",LOL
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_primary.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Indian Special" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545",B4U Movies
 https://cdn2.pishow.tv/live/156/master.m3u8
 
@@ -8827,12 +8822,6 @@ http://cdn.troya.one:80/ch2246/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iA4t
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DSTV@Sports" group-logo="https://i0.wp.com/zimpricecheck.com/wp-content/uploads/2021/10/dstv_now.jpg?fit=2156%2C1120&ssl=1" tvg-logo="https://www.placemyad.co.za/wp-content/uploads/logo-22.png",SS FOOTBALL 
 http://cdn.troya.one:80/ch2243/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEp5SJMkYD2SUZoheKvhEouG44kfNXBFE46v66dMZBw_
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={46f124209392f3db564ade5ecfff1d10:b6485da0ff018c4d758520865c19a598}
-#EXTINF:-1 tvg-id="210.astro" group-title="Astro Special" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/571_144.png",Rusi
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5168/default_primary.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Voot TV Group" group-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Voot_website_logo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png", Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://neestreamtv.com/jcinema/stream.m3u8?id=3694429|Referer=https://neestreamtv.com/
@@ -9327,5 +9316,18 @@ https://linears-playback.astro.com.my/vsg/41GJVua-qjnp61RvUW9mEHcktEgqBdA9iYIRBb
 #EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-name="PRIMA HD" group-title="Aneka Channel Bertoken" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",ASTRO PRIMA HD
 https://linears-playback.astro.com.my/vsg/41h1DQBjbFgu0nOgnV1pS6yw3OLGNpdF5mqHZsimjHZ2c=mb5h/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sL6GCnhRVKtIuOg6ibXyuQ", "kid":"gw2qvg6P0VlxIUCRrQXnEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania.png",Oppa Mania 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5177/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={46f124209392f3db564ade5ecfff1d10:b6485da0ff018c4d758520865c19a598}
+#EXTINF:-1 tvg-id="210.astro" group-title="Aneka Channel Special" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/571_144.png",Rusi
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5168/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EVNYahpFPgNAJxSimZZFZA", "kid":"EiyEvBMJQFhslhuuZSs2EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="100.astro" group-title="Aneka Channel Special" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/LOL.png",LOL
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_primary.mpd
