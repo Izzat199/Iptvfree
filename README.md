@@ -8200,17 +8200,17 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Anime Channel" group-logo="https://w7.pngwing.com/pngs/269/263/png-transparent-logo-anime-a-television-anime-television-angle-text.png" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F1dfa9234-cfd3-496f-870e-e8b0eaf4545e%2FPlex_xumoTile_FilmRise_Anime_1920x1080RDX.jpg",Filmrise Anime
 https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=88884004
 
-#EXTINF:-1 tvg-id="E4.uk" group-title="SKY@Local" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/440px-Sky_Group_logo_2020.svg.png" tvg-logo="https://iili.io/d9mg8Is.png",E4 UK
+#EXTINF:-1 tvg-id="E4.uk" group-title="Sky UK Group" group-logo="https://upload.wikimedia.org/wikipedia/it/a/a2/Sky_TV_Logo.png?20221109115120"  tvg-logo="https://iili.io/d9mg8Is.png",E4 UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 
-#EXTINF:-1 tvg-id="More4.uk" group-title="SKY@Local" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/440px-Sky_Group_logo_2020.svg.png" tvg-logo="https://iili.io/d9mgkpn.png",More4 UK
+#EXTINF:-1 tvg-id="More4.uk" group-title="Sky UK Group" group-logo="https://upload.wikimedia.org/wikipedia/it/a/a2/Sky_TV_Logo.png?20221109115120"  tvg-logo="https://iili.io/d9mgkpn.png",More4 UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 
-#EXTINF:-1 tvg-id="4seven.uk" group-title="SKY@Local" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/440px-Sky_Group_logo_2020.svg.png" tvg-logo="https://iili.io/d9mgekX.png",4seven UK
+#EXTINF:-1 tvg-id="4seven.uk" group-title="Sky UK Group" group-logo="https://upload.wikimedia.org/wikipedia/it/a/a2/Sky_TV_Logo.png?20221109115120"  tvg-logo="https://iili.io/d9mgekX.png",4seven UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
@@ -8218,12 +8218,12 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="" group-title="Aneka Kids" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cartoonito.svg/revision/latest?cb=20220521025816",Cartoonito Asia
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="SKY@Local" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/440px-Sky_Group_logo_2020.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/640px-Channel_4_%28On_Demand%29_2023.svg.png",CHANNEL 4 UK
+#EXTINF:-1 tvg-id="" group-title="Sky UK Group" group-logo="https://upload.wikimedia.org/wikipedia/it/a/a2/Sky_TV_Logo.png?20221109115120"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/640px-Channel_4_%28On_Demand%29_2023.svg.png",CHANNEL 4 UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 
-#EXTINF:-1 tvg-id="E4.uk" group-title="SKY@Local" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/440px-Sky_Group_logo_2020.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/300px-Film4_logo_2018.svg.png",4Film UK
+#EXTINF:-1 tvg-id="E4.uk" group-title="Sky UK Group" group-logo="https://upload.wikimedia.org/wikipedia/it/a/a2/Sky_TV_Logo.png?20221109115120"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/300px-Film4_logo_2018.svg.png",4Film UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
