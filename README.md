@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/malaysia.xml.gz"  
@@ -9242,7 +9241,7 @@ https://linears-playback.astro.com.my/vsg/41h1DQBjbFgu0nOgnV1pS6yw3OLGNpdF5mqHZs
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sL6GCnhRVKtIuOg6ibXyuQ", "kid":"gw2qvg6P0VlxIUCRrQXnEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania.png",Oppa Mania 
+#EXTINF:-1 tvg-id="" group-title="Aneka Channel Special" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania.png",Oppa Mania 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5177/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
