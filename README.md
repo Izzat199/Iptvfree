@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/malaysia.xml.gz"  
@@ -8164,18 +8165,6 @@ http://t2hyov41.russtv.net/iptv/XZ4GQ2XHLGEVTH/6727/index.m3u8
 #EXTINF:-1 tvg-id="194392" group-title="Shoq TV Group" group-logo="https://i.postimg.cc/Bnk223Nr/unnamed-5.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRji8_qvWai3YPIuoj-ytO7ToTXG9B0fFwsvA&s",Hum TV HD 
 https://cricfyranahin.xyz/hop/airtelop.php?id=5412|Referer=https://sportzxtv.com&User-Agent=HimelOp
 
-#EXTINF:-1 tvg-name="Veera HD" group-title="South Indian 2" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/telugu/local/veerahd.png",Veera HD
-https://tnm3u.in.net/channel/telugu.php?c=veerahd
-
-#EXTINF:-1 tvg-name="Veera Movies" group-title="South Indian 2" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/telugu/local/veeramovies.png", Veera Movies
-https://tnm3u.in.net/channel/telugu.php?c=veeramovies
-
-#EXTINF:-1 tvg-name="Veera Comedy" group-title="South Indian 2" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/telugu/local/veeracomedy.png",Veera Comedy
-https://tnm3u.in.net/channel/telugu.php?c=veeracomedy
-
-#EXTINF:-1 tvg-name="Veera Music" group-title="South Indian 2" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/telugu/local/veeramusic.png",Veera Music
-https://tnm3u.in.net/channel/telugu.php?c=veeramusic
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel Group" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Airtel_digitalTV.png/440px-Airtel_digitalTV.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/VijayTakkarLogo.webp/768px-VijayTakkarLogo.webp.png?20220922075200",Vijay Takker 
 https://stream.vstartv.org:3534/hybrid/play.m3u8
 
@@ -9254,3 +9243,45 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5168/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EVNYahpFPgNAJxSimZZFZA", "kid":"EiyEvBMJQFhslhuuZSs2EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="100.astro" group-title="Aneka Channel Special" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/NJOI_TV.png?20210521122233" tvg-logo="http://linear-poster.astro.com.my/prod/logo/LOL.png",LOL
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_primary.mpd
+
+#EXTINF:-1  tvg-name="Bhavana Tv" group-title="Kannada Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/kannada/local/bhavanatv.png",Bhavana Tv
+https://tnm3u.in.net/channel/kannada.php?c=bhavanatv
+
+EXTINF:-1  tvg-name="City Tv" group-title="Kannada Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/kannada/local/citytv_1.png",City Tv
+https://tnm3u.in.net/channel/kannada.php?c=citytv
+
+#EXTINF:-1  tvg-name="Daijiworld" group-title="Kannada Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/kannada/local/daijiworld.png",Daijiworld 
+https://tnm3u.in.net/youtube/stream.php?c=@DaijiworldTVLive
+
+#EXTINF:-1 tvg-name="" group-title="Kannada Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/kannada/local/jktv.png",JK Tv
+https://tnm3u.in.net/channel/kannada.php?c=jktv
+
+#EXTINF:-1 tvg-name="" group-title="Kannada Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/kannada/local/tv1.png",Tv1
+https://tnm3u.in.net/channel/kannada.php?c=tv1
+
+#EXTINF:-1 tvg-name="" group-title="Malayalam Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/malayalam/local/kairaliwe.png",KairaliWe
+https://tnm3u.in.net/channel/malayalam.php?c=kairaliwe
+
+#EXTINF:-1  tvg-name="Drishya Tv" group-title="Malayalam Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/malayalam/local/drishyatv.png",Drishya Tv
+https://tnm3u.in.net/channel/malayalam.php?c=drishyatv
+
+#EXTINF:-1 tvg-name="" group-title="Malayalam Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/malayalam/local/kcn.png",KCN
+https://tnm3u.in.net/channel/malayalam.php?c=kcn
+
+#EXTINF:-1  tvg-name="Thanima Tv" group-title="Malayalam" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/malayalam/local/thanimatvtvm.png",Thanima Tv 
+https://tnm3u.in.net/channel/malayalam.php?c=thanimatvtvm
+
+#EXTINF:-1 tvg-name="" group-title="Malayalam Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/malayalam/local/starnet.png",Starnet
+https://tnm3u.in.net/channel/malayalam.php?c=starnet
+
+#EXTINF:-1 tvg-name="Veera HD" group-title="Telugu Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/telugu/local/veerahd.png",Veera HD
+https://tnm3u.in.net/channel/telugu.php?c=veerahd
+
+#EXTINF:-1 tvg-name="Veera Movies" group-title="Telugu Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/telugu/local/veeramovies.png", Veera Movies
+https://tnm3u.in.net/channel/telugu.php?c=veeramovies
+
+#EXTINF:-1 tvg-name="Veera Comedy" group-title="Telugu Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/telugu/local/veeracomedy.png",Veera Comedy
+https://tnm3u.in.net/channel/telugu.php?c=veeracomedy
+
+#EXTINF:-1 tvg-name="Veera Music" group-title="Telugu Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/telugu/local/veeramusic.png",Veera Music
+https://tnm3u.in.net/channel/telugu.php?c=veeramusic
