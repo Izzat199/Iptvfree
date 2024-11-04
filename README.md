@@ -9267,7 +9267,7 @@ https://tnm3u.in.net/channel/malayalam.php?c=drishyatv
 #EXTINF:-1 tvg-name="" group-title="Malayalam Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/malayalam/local/kcn.png",KCN
 https://tnm3u.in.net/channel/malayalam.php?c=kcn
 
-#EXTINF:-1  tvg-name="Thanima Tv" group-title="Malayalam" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/malayalam/local/thanimatvtvm.png",Thanima Tv 
+#EXTINF:-1  tvg-name="Thanima Tv" group-title="Malayalam Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/malayalam/local/thanimatvtvm.png",Thanima Tv 
 https://tnm3u.in.net/channel/malayalam.php?c=thanimatvtvm
 
 #EXTINF:-1 tvg-name="" group-title="Malayalam Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/malayalam/local/starnet.png",Starnet
@@ -9284,3 +9284,18 @@ https://tnm3u.in.net/channel/telugu.php?c=veeracomedy
 
 #EXTINF:-1 tvg-name="Veera Music" group-title="Telugu Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="http://tnm3u.live/icon/telugu/local/veeramusic.png",Veera Music
 https://tnm3u.in.net/channel/telugu.php?c=veeramusic
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Tamil Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="https://i.postimg.cc/c4MMZX8H/unnamed-1.webp",Aasai TV 
+http://server.sscloud7.in/aasaitv/aasaitv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Tamil Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="https://i.postimg.cc/YST0VLM7/unnamed-2.webp",Dark TV 
+http://applelive.in/darktv/darktv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Tamil Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="https://i.postimg.cc/R0wqdtqs/download.jpg", Eagle TV
+https://ipcloud.live/eaglemedia/eagletv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Tamil Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="https://i.postimg.cc/htBGjj2V/unnamed-3.png", GCV TV 
+http://applelive.in/gcv/gcv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Tamil Channel" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" tvg-logo="https://i.postimg.cc/J4b198R0/unnamed-3.webp", Garudan TV
+http://garudatv.applelive.in/hls/garudantv.m3u8
